@@ -1,0 +1,191 @@
+header {
+  background-image: url("leukste foto's/JJA.iedereen.JPG");
+  background-repeat: no-repeat;
+  padding: 100px   50px;
+  background-size: cover;
+  font-weight: 400;
+}
+.logo {
+  float:left;
+}
+.header {
+margin-top: 150px;
+}
+h1{
+  color: rgba(255, 255, 255, 1);
+text-align: center;
+font-size: 60px;
+letter-spacing: 10px;
+font-family: "Bungee Shade";
+letter-spacing: -0.5px;
+
+}
+ul {
+  text-align: center;
+  background-color: rgba(255, 55, 55, 0.5);
+  padding-left: cover;
+  padding-right: cover;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 30px;
+}
+li {
+display: inline;
+font-family: "Fredoka One";
+font-size: 20px;
+background-color: rgba(255,255, 255, 0.5);
+border-radius: 100px;
+padding: 10px;
+}
+li:hover{
+  display: inline;
+  color: black;
+  font-family: "Fredoka One";
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.80);
+  border-radius: 100px;
+  padding: 10px;
+}
+.hoofditem{
+  font-family: "Fredoka One";
+  font-size: 20px;
+  background-color: white;
+  border-radius: 100px;
+  padding: 10px;
+}
+a {
+color: black;
+padding: 20px 40px;
+}
+h2 {
+  text-align: center;
+  font-family: "Orbitron";
+  font-size: 60px;
+}
+p {
+  font-family: "Orbitron";
+  font-size: 20px;
+}
+
+
+.locatie{
+  color: black;
+  font-family: "Orbitron";
+  text-decoration: none;
+  padding: 0px;
+}
+.locatie:hover{
+  color: orange;
+}
+#repetitietijden{
+  font-family: "Orbitron";
+  display: inline;
+
+}
+#wrap1 {
+    height: 200px;
+  width: 30%;
+}
+#wrap2{
+    height: 200px;
+width: 30%;
+}
+#wrap3{
+    height: 200px;
+  width: 30%;
+}
+#wrap1, #wrap2, #wrap3{
+  display: inline-block;
+}
+
+.fotogalerij{
+  display: block;
+}
+
+div.gallery {
+  font-family: "Orbitron";
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  float: left;
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
+
+
+
+table {
+  font-family: "Orbitron";
+  width: 500px;
+  height: auto;
+  border-collapse: collapse;
+  border:3px solid black;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+th{
+  font-size: 20px;
+}
+td{
+  border: 1px solid grey;
+  width: 60px;
+  height: 50px;
+  font-family: "Orbitron";
+padding: 40px;
+}
+tr{
+}
+
+
+.vind ons{
+    text-align: center;
+}
+
+.contactdiv{
+  font-family: "orbitron";
+}
+input{
+  font-family: "Orbitron";
+}
+
+
+footer {
+  position: bottom;
+  size: cover;
+    background-color: rgba(0, 0, 0, 0.80);
+    height: 350px;
+}
+.footer{
+  position: bottom;
+  width: 33%;
+  display: inline-block;
+}
+.footertext{
+  font-size: 10px;
+  color: white;
+}
+#links{
+  padding-top: 10px;
+}
+#midden{
+  padding-top: 10px;
+}
+#rechts{
+  padding-right: 0;
+}
